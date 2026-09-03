@@ -21,6 +21,6 @@ timed with Timer0 and polled from the main loop.
 
 ## Notes
 - This version uses polling rather than an interrupt — see
-  [`led-walking ones-interrupt`](../led-walkingones-interrupt) for the interrupt-driven
+  [`led-walking ones-interrupt`](../led-walking ones-interrupt) for the interrupt-driven
   version of the same project, along with a Timer0 overflow ISR on the
   Q84's vectored interrupt controller.
