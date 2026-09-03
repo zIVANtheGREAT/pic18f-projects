@@ -39,4 +39,4 @@ variables. A `uint8_t` version is still possible with an explicit cast —
 down to 8-bit width, but wasn't pursued further here.
 
 ## Related
-- [`led-chaser-polling`](../led-walking%20ones-polling) — the original polled version
+- [`led-walking ones-polling`](../led-walking%20ones-polling) — the original polled version
