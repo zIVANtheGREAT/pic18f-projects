@@ -1,6 +1,6 @@
 # LED Chaser — Timer0 (Interrupt-Driven)
 
-Interrupt-driven version of [`led-chaser-polling`](../led-chaser-polling),
+Interrupt-driven version of [`led-chaser-polling`](../led-walking%20ones-polling),
 rebuilt to move Timer0 overflow handling into a vectored ISR instead of
 polling `TMR0IF` in the main loop.
 
